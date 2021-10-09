@@ -59,5 +59,5 @@ Me chamo <b> Jefferson dos santos</b>.
 <div> 
 <hr /> 
  
-  ![Snake animation](https://github.com/Jefferson1709/jefferson1709/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/jefferson1709/jefferson1709/blob/output/github-contribution-grid-snake.svg) 
 </div>
