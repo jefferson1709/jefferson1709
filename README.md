@@ -15,7 +15,6 @@ Me chamo <b> Jefferson dos santos</b>.
 
 - :seedling: Atualmente, estou aprendendo Java e mais um monte de coisa :joy:
 - 🤔 Meus interesses são Series e livros Sci-fi :movie_camera: 📕
-- :mortar_board: Estou cursando Bacharelado em Engenharia da computação 👩‍💻
 - :mailbox: Envie um e-mail para Jefferson1709@hotmail.com para entrar em contato comigo. :email:
 
 <hr />
