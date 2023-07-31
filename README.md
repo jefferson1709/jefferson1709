@@ -81,9 +81,3 @@ Me chamo <b> Jefferson dos santos</b>.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson1709&layout=compact&langs_count=7&theme=react"/>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefferson1709" alt="Hérika-Ströngreen" /> </p>
 </details>
-
-<div> 
-<hr /> 
- 
-  ![Snake animation](https://github.com/jefferson1709/jefferson1709/blob/output/github-contribution-grid-snake.svg) 
-</div>
